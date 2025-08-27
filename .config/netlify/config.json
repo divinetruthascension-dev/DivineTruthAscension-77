@@ -1,0 +1,16 @@
+{
+	"telemetryDisabled": false,
+	"cliId": "1ade9af1-3ce3-4d2e-b895-cabdacc7d6bf",
+	"userId": "68a43cb9eb1939a4c7ebb301",
+	"users": {
+		"68a43cb9eb1939a4c7ebb301": {
+			"id": "68a43cb9eb1939a4c7ebb301",
+			"name": "Desmond McBride",
+			"email": "divinetruthascension@gmail.com",
+			"auth": {
+				"token": "nfc_9yEYbfXyWN1mhZGazLKCByShtjoBhB87afe4",
+				"github": {}
+			}
+		}
+	}
+}

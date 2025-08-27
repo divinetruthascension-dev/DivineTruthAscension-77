@@ -1,0 +1,57 @@
+0 verbose cli /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/bin/npm
+1 info using npm@10.9.3
+2 info using node@v22.18.0
+3 silly config load:file:/data/data/com.termux/files/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/data/data/com.termux/files/home/divinetruthascension-v2/.npmrc
+5 silly config load:file:/data/data/com.termux/files/home/.npmrc
+6 silly config load:file:/data/data/com.termux/files/usr/etc/npmrc
+7 verbose title npm init
+8 verbose argv "init" "--yes"
+9 verbose logfile logs-max:10 dir:/data/data/com.termux/files/home/.npm/_logs/2025-08-26T13_27_16_878Z-
+10 verbose logfile /data/data/com.termux/files/home/.npm/_logs/2025-08-26T13_27_16_878Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 silly package data {
+13 silly package data   name: 'divinetruthascension-v2',
+13 silly package data   version: '0.1.0',
+13 silly package data   private: true,
+13 silly package data   dependencies: {
+13 silly package data     '@testing-library/dom': '^10.4.1',
+13 silly package data     '@testing-library/jest-dom': '^6.8.0',
+13 silly package data     '@testing-library/react': '^16.3.0',
+13 silly package data     '@testing-library/user-event': '^13.5.0',
+13 silly package data     react: '^19.1.1',
+13 silly package data     'react-dom': '^19.1.1',
+13 silly package data     'react-scripts': '5.0.1',
+13 silly package data     'web-vitals': '^2.1.4'
+13 silly package data   },
+13 silly package data   scripts: {
+13 silly package data     start: 'react-scripts start',
+13 silly package data     build: 'react-scripts build',
+13 silly package data     test: 'react-scripts test',
+13 silly package data     eject: 'react-scripts eject'
+13 silly package data   },
+13 silly package data   eslintConfig: { extends: [ 'react-app', 'react-app/jest' ] },
+13 silly package data   browserslist: {
+13 silly package data     production: [ '>0.2%', 'not dead', 'not op_mini all' ],
+13 silly package data     development: [
+13 silly package data       'last 1 chrome version',
+13 silly package data       'last 1 firefox version',
+13 silly package data       'last 1 safari version'
+13 silly package data     ]
+13 silly package data   },
+13 silly package data   description: 'This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).',
+13 silly package data   main: 'index.js',
+13 silly package data   devDependencies: {},
+13 silly package data   keywords: [],
+13 silly package data   author: '',
+13 silly package data   license: 'ISC',
+13 silly package data   [Symbol(newline)]: '\n',
+13 silly package data   [Symbol(indent)]: '  '
+13 silly package data }
+14 verbose cwd /data/data/com.termux/files/home/divinetruthascension-v2
+15 verbose os Linux 6.6.30-android15-8-30455426-abogkiS931BXXS5AYG4-4k
+16 verbose node v22.18.0
+17 verbose npm  v10.9.3
+18 verbose exit 0
+19 info ok

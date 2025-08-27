@@ -1,0 +1,47 @@
+// Initialize Firebase app (firebaseConfig is loaded from firebase-config.js)
+firebase.initializeApp(firebaseConfig);
+
+const auth = firebase.auth();
+const provider = new firebase.auth.GoogleAuthProvider();
+
+const signinPanel = document.getElementById("signinPanel");
+const dashboard = document.getElementById("dashboard");
+const authArea = document.getElementById("authArea");
+const googleBtn = document.getElementById("googleSignInBtn");
+const signOutBtn = document.getElementById("signOutBtn");
+const userPhoto = document.getElementById("userPhoto");
+const userName = document.getElementById("userName");
+const userEmail = document.getElementById("userEmail");
+
+// Google Sign-In button click
+googleBtn.addEventListener("click", () => {
+  auth.signInWithPopup(provider).catch(error => {
+    alert("Sign-in failed: " + error.message);
+  });
+});
+
+// Sign-out button click
+signOutBtn.addEventListener("click", () => {
+  auth.signOut().catch(error => {
+    alert("Sign-out failed: " + error.message);
+  });
+});
+
+// Listen for auth state changes
+auth.onAuthStateChanged(user => {
+  if (user) {
+    // User signed in
+    signinPanel.classList.add("hidden");
+    dashboard.classList.remove("hidden");
+
+    authArea.innerHTML = `<img src="${user.photoURL || 'images/phoenix-logo.png'}" alt="User" class="avatar-mini" /> ${user.displayName || "User"}`;
+    userPhoto.src = user.photoURL || "images/phoenix-logo.png";
+    userName.textContent = user.displayName || "User";
+    userEmail.textContent = user.email || "";
+  } else {
+    // User signed out
+    signinPanel.classList.remove("hidden");
+    dashboard.classList.add("hidden");
+    authArea.textContent = "Not signed in";
+  }
+});
