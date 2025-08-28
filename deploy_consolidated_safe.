@@ -1,0 +1,81 @@
+#!/bin/bash
+# deploy_consolidated_safe.sh
+# Fully safe consolidation and Netlify deployment for Termux
+
+# ------------------------------
+# CONFIGURATION
+# ------------------------------
+PRIMARY_REPO="$HOME/divinetruthascension"
+SECONDARY_REPOS=("divinetruthascension-7" "divinetruthascension-77" "divinetruthascension-v2")
+PRIMARY_SITE_ID="7b18fe4a-bed2-4d6a-aa93-9f0ed93a41e8"  # Change if different
+PUBLIC_DIR="$PRIMARY_REPO/public"
+FUNCTIONS_DIR="$PRIMARY_REPO/functions"
+SECONDARY_DIR="$PRIMARY_REPO/secondary"
+
+# Optional: set your Netlify PAT
+# export NETLIFY_AUTH_TOKEN="your_personal_access_token"
+
+# ------------------------------
+# STEP 0: Check Netlify link
+# ------------------------------
+cd "$PRIMARY_REPO" || exit
+if ! netlify status >/dev/null 2>&1; then
+    echo "Netlify CLI not linked. Linking now..."
+    netlify unlink 2>/dev/null
+    netlify link   # choose existing site: infodinetruthascensioncom.com
+fi
+
+# ------------------------------
+# STEP 1: Ensure public/ and functions/ exist
+# ------------------------------
+mkdir -p "$PUBLIC_DIR"
+mkdir -p "$FUNCTIONS_DIR"
+mkdir -p "$SECONDARY_DIR"
+
+# ------------------------------
+# STEP 2: Copy secondary repos into secondary/
+# ------------------------------
+for repo in "${SECONDARY_REPOS[@]}"; do
+    SRC="$HOME/$repo"
+    DEST="$SECONDARY_DIR/$repo"
+
+    if [ -d "$SRC" ]; then
+        echo "Copying $repo into $DEST..."
+        mkdir -p "$DEST"
+        cp -r "$SRC/"* "$DEST/"
+    else
+        echo "Warning: $repo not found in $HOME, skipping..."
+    fi
+done
+
+# ------------------------------
+# STEP 3: Copy static files and assets into public/
+# ------------------------------
+echo "Copying live content into public/..."
+for repo in "${SECONDARY_REPOS[@]}"; do
+    SRC="$SECONDARY_DIR/$repo"
+
+    [ -f "$SRC/index.html" ] && cp "$SRC/index.html" "$PUBLIC_DIR/index.html"
+    [ -f "$SRC/offline.html" ] && cp "$SRC/offline.html" "$PUBLIC_DIR/offline.html"
+    [ -f "$SRC/styles.css" ] && cp "$SRC/styles.css" "$PUBLIC_DIR/styles.css"
+    [ -f "$SRC/script.js" ] && cp "$SRC/script.js" "$PUBLIC_DIR/script.js"
+
+    # Copy assets folder if it exists
+    if [ -d "$SRC/assets" ]; then
+        mkdir -p "$PUBLIC_DIR/assets"
+        cp -r "$SRC/assets/." "$PUBLIC_DIR/assets/"
+    fi
+
+    # Copy functions folder if it exists
+    if [ -d "$SRC/functions" ]; then
+        cp -r "$SRC/functions/." "$FUNCTIONS_DIR/"
+    fi
+done
+
+# ------------------------------
+# STEP 4: Deploy to Netlify
+# ------------------------------
+echo "Deploying to Netlify..."
+netlify deploy --dir="$PUBLIC_DIR" --functions="$FUNCTIONS_DIR" --site="$PRIMARY_SITE_ID" --prod
+
+echo "✅ Deployment complete!"

@@ -1,0 +1,1471 @@
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_223753 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 11254
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_223800 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 11285
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_223806 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 11312
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_223812 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 11341
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_223818 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 11363
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_223824 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 11385
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_223830 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 11434
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_223836 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 11470
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_223842 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 11499
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_223847 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 11682
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_223853 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 11723
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_223859 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 11771
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_223905 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 11794
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_223911 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 11831
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_223917 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 11854
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_223923 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 11878
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_223929 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 11899
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_223935 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 11931
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_223941 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 12021
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_223947 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 12057
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_223953 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 12133
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224012 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 12228
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224018 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 12288
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224024 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 12322
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224030 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 12385
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224036 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 12411
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224042 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 12450
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224048 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 12492
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224054 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 12551
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224100 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 12612
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224106 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 12673
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224112 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 12705
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224118 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 12737
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224124 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 12765
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224129 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 12792
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224135 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 12820
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224141 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 12878
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224147 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 12904
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224153 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 12971
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224159 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 13004
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224205 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 13134
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224211 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 13181
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224217 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 13207
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224223 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 13268
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224229 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 13326
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224235 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 13358
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224241 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 13382
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224247 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 13430
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224253 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 13467
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224259 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 13553
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224305 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 13650
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224311 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 13690
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224317 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 13744
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224323 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 13803
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224329 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 13826
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224335 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 13860
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224341 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 14080
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[2025-08-27 22:45:03] Checking ports...
+[2025-08-27 22:45:03] Port 9000 free.
+[2025-08-27 22:45:03] Port 9100 free.
+[2025-08-27 22:45:03] Port 9200 free.
+[2025-08-27 22:45:03] Port 9300 free.
+[2025-08-27 22:45:03] Port 9400 free.
+[2025-08-27 22:45:03] Starting DivineTruthAscension server...
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224503 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 15009
+[2025-08-27 22:45:04] Server stopped.
+[2025-08-27 22:45:04] Waiting 15 seconds before retry...
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[2025-08-27 22:45:19] Checking ports...
+[2025-08-27 22:45:19] Port 9000 free.
+[2025-08-27 22:45:19] Port 9100 free.
+[2025-08-27 22:45:19] Port 9200 free.
+[2025-08-27 22:45:19] Port 9300 free.
+[2025-08-27 22:45:19] Port 9400 free.
+[2025-08-27 22:45:19] Starting DivineTruthAscension server...
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224519 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 15276
+[2025-08-27 22:45:20] Server stopped.
+[2025-08-27 22:45:20] Waiting 15 seconds before retry...
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[2025-08-27 22:45:35] Checking ports...
+[2025-08-27 22:45:35] Port 9000 free.
+[2025-08-27 22:45:35] Port 9100 free.
+[2025-08-27 22:45:35] Port 9200 free.
+[2025-08-27 22:45:35] Port 9300 free.
+[2025-08-27 22:45:35] Port 9400 free.
+[2025-08-27 22:45:35] Starting DivineTruthAscension server...
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224535 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 15461
+[2025-08-27 22:45:36] Server stopped.
+[2025-08-27 22:45:36] Waiting 15 seconds before retry...
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[2025-08-27 22:45:51] Checking ports...
+[2025-08-27 22:45:51] Port 9000 free.
+[2025-08-27 22:45:51] Port 9100 free.
+[2025-08-27 22:45:51] Port 9200 free.
+[2025-08-27 22:45:51] Port 9300 free.
+[2025-08-27 22:45:51] Port 9400 free.
+[2025-08-27 22:45:51] Starting DivineTruthAscension server...
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224551 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 15875
+[2025-08-27 22:45:52] Server stopped.
+[2025-08-27 22:45:52] Waiting 15 seconds before retry...
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[2025-08-27 22:46:07] Checking ports...
+[2025-08-27 22:46:07] Port 9000 free.
+[2025-08-27 22:46:07] Port 9100 free.
+[2025-08-27 22:46:07] Port 9200 free.
+[2025-08-27 22:46:07] Port 9300 free.
+[2025-08-27 22:46:07] Port 9400 free.
+[2025-08-27 22:46:07] Starting DivineTruthAscension server...
+[💾] Backing up project to /data/data/com.termux/files/home/divinetruthascension-backups/divinetruthascension_20250827_224607 ...
+[✔] Backup complete.
+Cannot open netlink socket: Permission denied
+[✔] Starting server on port 9000...
+[✔] Server started with PID 15971
+[2025-08-27 22:46:08] Server stopped.
+[2025-08-27 22:46:08] Max retries reached (5). Exiting loop.
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1310, in <module>
+    test(
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1257, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 1304, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/data/data/com.termux/files/usr/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use

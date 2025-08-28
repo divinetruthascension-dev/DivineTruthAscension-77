@@ -1,0 +1,22 @@
+# netlify.toml for DivineTruthAscension primary project
+
+[build]
+  # Directory containing the site files to deploy
+  publish = "public"
+
+  # Leave empty if no build command is needed
+  command = ""
+
+[functions]
+  # Directory containing Netlify Functions
+  directory = "functions"
+
+[context.production.environment]
+  # Your primary Netlify Site ID
+  NETLIFY_SITE_ID = "7b18fe4a-bed2-4d6a-aa93-9f0ed93a41e8"
+
+# Optional redirects
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
